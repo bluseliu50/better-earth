@@ -27,19 +27,19 @@
 安装全部（中文 + 英文）：
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth
+npx skills add https://github.com/bluseliu50/better-earth
 ```
 
 只装中文版：
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth --skill better-earth
+npx skills add https://github.com/bluseliu50/better-earth --skill better-earth
 ```
 
 只装英文版：
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth --skill better-earth-en
+npx skills add https://github.com/bluseliu50/better-earth --skill better-earth-en
 ```
 
 ### 它怎么工作
@@ -84,19 +84,19 @@ If you're on a per-call Coding Plan, it's also draining your wallet.
 Install all (Chinese + English):
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth
+npx skills add https://github.com/bluseliu50/better-earth
 ```
 
 Chinese only:
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth --skill better-earth
+npx skills add https://github.com/bluseliu50/better-earth --skill better-earth
 ```
 
 English only:
 
 ```bash
-npx skills add https://github.com/bluseliu/better-earth --skill better-earth-en
+npx skills add https://github.com/bluseliu50/better-earth --skill better-earth-en
 ```
 
 ### How It Works
