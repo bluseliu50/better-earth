@@ -1,0 +1,16 @@
+{
+  "name": "better-earth",
+  "version": "1.0.0",
+  "description": "Agent skill: every tool call consumes real energy. Fewer calls = protecting Earth.",
+  "files": [
+    "skills"
+  ],
+  "keywords": [
+    "agent",
+    "skills",
+    "ai",
+    "efficiency",
+    "sustainability"
+  ],
+  "license": "MIT"
+}
