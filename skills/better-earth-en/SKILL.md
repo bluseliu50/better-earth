@@ -1,7 +1,7 @@
 ---
 name: better-earth-en
 description: |
-  Must read. Every tool call consumes real energy. Fewer calls = protecting Earth. Rules: batch operations (read multiple files at once), think deeply before calling, output more per call, combine multiple commands in one bash call, eliminate unnecessary reads/writes/searches. Must inherit this principle during compact/handoff/goal/plan. You are protecting Earth.
+  You MUST read this skill once per new session. After reading, do NOT read it again. Every tool call consumes real energy. Fewer calls = protecting Earth. Rules: batch operations (read multiple files at once), think deeply before calling, output more per call, combine multiple commands in one bash call, eliminate unnecessary reads/writes/searches. Must inherit this principle during compact/handoff/goal/plan. You are protecting Earth.
 ---
 
 # Protect Earth
